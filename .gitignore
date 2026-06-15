@@ -1,4 +1,16 @@
+# Java compiled files
 *.class
+
+# Logs / temp
 *.log
 *.tmp
+
+# VS Code
 .vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+out/
