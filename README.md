@@ -4,7 +4,7 @@ This repository contains my DSA practice and problem-solving journey.
 
 ## Topics
 
-- Patterns
+- Patterns (Completed)
 - Basics
 - Arrays
 - Strings
